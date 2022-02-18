@@ -2,12 +2,12 @@
 const gcbotwa = () =>{
 	return`Join Aja Semua Fitur Bot Bisa Digunakan !
 
-1. *Beta Bot  Support1*
-https://chat.whatsapp.com/H0PuIGVnJJnF7M6kRPEgq3
-2. *Beta Bot Support 2*
-https://chat.whatsapp.com/CQz2qczGKWyHiEkHXdply6
-3. *Beta Bot Support 3*
-https://chat.whatsapp.com/ImkSCzAb9LGGANlVuwAbXH
+1. *Alpha Bot  Support1*
+_
+2. *Alpha Bot Support 2*
+_
+3. *Alpha Bot Support 3*
+_
 
 Jika ada link yang ke reset, silahkan hubungi
 owner untuk meminta link yang baru
